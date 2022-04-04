@@ -1,0 +1,8 @@
+{
+	"name": "melity/ckeditor",
+	"description": "JavaScript WYSIWYG web text editor.",
+	"type": "library",
+	"keywords": [ "ckeditor4", "ckeditor", "fckeditor", "editor", "wysiwyg", "html", "richtext", "text", "javascript" ],
+	"homepage": "https://github.com/shashank-melity/ckeditor",
+	"license": [ "GPL-2.0+", "LGPL-2.1+", "MPL-1.1+" ]
+}
